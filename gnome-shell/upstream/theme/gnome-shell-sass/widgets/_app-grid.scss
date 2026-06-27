@@ -131,7 +131,7 @@ $page_indicator_size: 10px;
 
     &:checked, &:active {
       width: 32px;
-      background-color: #E95420;
+      background-color: $orange;
     }
   }
 }
